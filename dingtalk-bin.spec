@@ -69,6 +69,9 @@ rm -rf %{buildroot}/opt/dingtalk-bin/*Release*/{libcurl.so.4,libz*}
 /opt/dingtalk-bin/
 
 %changelog
+* Fri Aug 04 2023 zhullyb <zhullyb@outlook.com> - 7.0.40.30706-1
+- fix open url
+
 * Tue Jan 17 2023 zhullyb <zhullyb@outlook.com> - 1.6.0.230113-2
 - fix open url
 
