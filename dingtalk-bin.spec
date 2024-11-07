@@ -5,7 +5,7 @@
 AutoReqProv: no
 
 Name:           dingtalk-bin
-Version:        7.6.0.40718
+Version:        7.6.15.4102301
 Release:        2%{?dist}
 Summary:        钉钉
 
