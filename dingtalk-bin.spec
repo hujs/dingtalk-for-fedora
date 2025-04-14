@@ -11,7 +11,7 @@ Summary:        钉钉
 
 License:        Custom
 URL:            https://gov.dingtalk.com
-Source0:        https://dtapp-pub.dingtalk.com/dingtalk-desktop/xc_dingtalk_update/linux_deb/Release/com.alibabainc.dingtalk_%{version}_amd64.deb
+Source0:        https://dtapp-pub.dingtalk.com/dingtalk-desktop/xc_dingtalk_update/linux_deb/Release/com.alibabainc.dingtalk_7.6.45.5032501_amd64.deb
 Source1:        https://tms.dingtalk.com/markets/dingtalk/service-terms-zh
 Source2:        dingtalk-bin.desktop
 Source3:        dingtalk.svg
