@@ -6,7 +6,7 @@ English | [中文](README_zh.md)
 
 This repository provides the spec file which can help you to repack the official dingtalk deb package to rpm package.
 
-If you don't want to build it yourself, you can download the binary rpm built by GitHub Actions from [this page](https://github.com/zhullyb/dingtalk-for-fedora/actions/workflows/rpmbuild.yml), simply click the **latest workflow run** with ✅ labeled and download the **Artifacts** with your github account logged-in.
+If you don't want to build it yourself, you can download the binary rpm built by GitHub Actions from [this page](https://github.com/hujs/dingtalk-for-fedora/actions/workflows/rpmbuild.yml), simply click the **latest workflow run** with ✅ labeled and download the **Artifacts** with your github account logged-in.
 
 ## Build
 
@@ -51,6 +51,6 @@ Q: Why no release was created?
 
 A: I don't have the right to redistribute the software, so I shouldn't create a release on some extent.
 
-Q: I saw that the file downloaded from GitHub Actions is labeled with "fc37", can I install the package to fedora 36 or some other version ?
+Q: I saw that the file downloaded from GitHub Actions is labeled with "fc38", can I install the package to fedora 39 or some other version ?
 
 A: Installation and running on other Fedora versions have not been tested but it should work (no guarantees). Use at your own expense.
